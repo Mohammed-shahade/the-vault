@@ -1,0 +1,15 @@
+.search{
+    width: 100px;
+    height: 100px;
+}
+.box{
+    width: 250px;
+    height: 150px;
+    background-color: gray;
+}
+.label{
+    height: 50px;
+}
+.seperation{
+    height: 50px;
+}
